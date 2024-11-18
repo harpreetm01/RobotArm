@@ -15,7 +15,7 @@ This repository contains the code, documentation, and resources for a palletizin
 
 This project is a palletizing robot arm based on a project guide by [Florin Tobler](https://www.thingiverse.com/thing:1718984?collect) from Thingiverse. It is designed to automate the process of palletizing objects or materials, improving efficiency and reducing manual labor. The project combines mechanical design, electronics, and programming to create a functional robot arm capable of performing the required tasks.
 
-![](RoboArm/Photos/10.jpg)
+![](RoboArm/Photos/20230506_130520.jpg)
 
 ## Requirements
 
